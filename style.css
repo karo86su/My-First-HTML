@@ -1,12 +1,11 @@
 body{
     background-color: #ffc4c4;
     margin: 0px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Comic Sans MS', cursive;
 
 #titleText {
     color: #be2846;
 }
-
 
 }
 
@@ -17,4 +16,26 @@ body{
 .highlight{
     color: #ff146a;
     font-weight: bold;
+}
+
+#introContainer {
+    width: 470px;
+    float: left ;
+}
+
+#introPicture {
+    float: left;
+}
+
+.reset {
+    clear: both;
+}
+
+#hobbyContainer {
+    width: 420px;
+    float: left;
+}
+
+.socialTmb {
+    float: left;
 }
