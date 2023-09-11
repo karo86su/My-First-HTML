@@ -1,0 +1,20 @@
+body{
+    background-color: #ffc4c4;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+
+#titleText {
+    color: #be2846;
+}
+
+
+}
+
+#introText{
+    color: #ff6287;
+}
+
+.highlight{
+    color: #ff146a;
+    font-weight: bold;
+}
