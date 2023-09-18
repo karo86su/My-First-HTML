@@ -31,6 +31,11 @@ text-align: center;
     color: #ff6287;
 }
 
+#mainContainer {
+    width: 500px;
+    margin: auto;
+}
+
 .highlight{
     color: #ff146a;
     font-weight: bold;
@@ -57,10 +62,14 @@ text-align: center;
 }
 
 .socialTmb {
-    float: left;
+    align-items: center;
+    margin: 400px;
 }
 
-#mainContainer {
-    width: 500px;
-    margin: auto;
+#navigation {
+    border-radius: 5px;
+    background-color: #ffbccc;
+    color: #ff1a4f;
+    border-color: #ff146a;
+    align-items: center;
 }
