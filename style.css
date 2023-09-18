@@ -47,7 +47,7 @@ text-align: center;
 }
 
 #introPicture {
-    float: left;
+    align-items: center;
 }
 
 .reset {
@@ -63,7 +63,6 @@ text-align: center;
 
 .socialTmb {
     align-items: center;
-    margin: 400px;
 }
 
 #navigation {
