@@ -50,6 +50,16 @@ text-align: center;
     align-items: center;
 }
 
+#hobbyPicture {
+    margin: 20px auto;
+    float: right;
+}
+
+#funnyPicture {
+    align-items: center;
+    margin: 50px;
+}
+
 .reset {
     clear: both;
 }
@@ -75,4 +85,18 @@ text-align: center;
     display: block;
     width: 150px;
     margin: 50px auto;
+}
+#navigation2 {
+    border-radius: 5px;
+    background-color: #ffbccc;
+    color: #ff1a4f;
+    border-color: #ff146a;
+    align-items: center;
+    display: block;
+    width: 150px;
+    margin: 50px auto;
+}
+
+#byebye {
+text-align: center;
 }
